@@ -1,0 +1,27 @@
+{
+  "name": "MAGStompKit",
+  "version": "0.1.0",
+  "summary": "A short description of MAGStompKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Magora-IOS/MAGStompKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zykov Mikhail": "zykov@magora.systems"
+  },
+  "source": {
+    "git": "https://github.com/Magora-IOS/MAGStompKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MAGStompKit/Classes/**/*",
+  "dependencies": {
+    "SocketRocket": [
+      "~> 0.5.1"
+    ]
+  }
+}

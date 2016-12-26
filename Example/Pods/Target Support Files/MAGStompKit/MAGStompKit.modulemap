@@ -1,0 +1,6 @@
+framework module MAGStompKit {
+  umbrella header "MAGStompKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

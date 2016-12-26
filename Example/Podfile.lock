@@ -1,0 +1,19 @@
+PODS:
+  - MAGStompKit (0.1.0):
+    - SocketRocket (~> 0.5.1)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - MAGStompKit (from `../`)
+
+EXTERNAL SOURCES:
+  MAGStompKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MAGStompKit: 1116f9bf651af0f638a240837d2f8c24bef8b119
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 348bed904ea459ad168ca9b6c35cb373fc36394a
+
+COCOAPODS: 1.1.1
