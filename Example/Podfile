@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MAGStompKit_Example' do
+  pod 'MAGStompKit', :path => '../'
+
+  target 'MAGStompKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
