@@ -44,7 +44,7 @@
 
 #pragma mark Control characters
 
-#define	kLineFeed @"\xA"
+#define	kLineFeed @"\x0A"
 #define	kNullChar @"\x00"
 #define kHeaderSeparator @":"
 
